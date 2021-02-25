@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    font-family: "Manrope", sans-serif;
+    background-color: #D5FAFC;
+}
+
+.left_one {
+    width: 705;
+    display: inline-block;
+    background-color: #2EC5CE;
+}
+
+.right_one {
+    width: 705;
+    display: inline-block;
+}
+
+h2, h3, h4, p  {
+    margin: 0;
+    color: #18191F;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.first {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.second {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.small {
+    color: #474A57;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+img {
+    margin-bottom: -4px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1110px;
+    margin-left: 165px;
+}
+
+.left {
+    background-color: #2EC5CE;
+    display: inline-block;
+    vertical-align: middle;
+    width: 540;
+}
+
+.inleft {
+    margin-top: 246px;
+    margin-bottom: 246px;
+    margin-right: 95px;
+}
+
+.right {
+    background-color: white;
+    width: 570;
+    display: inline-block;
+    margin-left: -4px;
+    vertical-align: middle;
+}
+
+.mark {
+    margin-top: 40px;
+    margin-bottom: 24px;
+    margin-left: 450px;
+    margin-right: 40px;
+}
+
+.woman {
+    margin-top: 0;
+    margin-bottom: 24px;
+    margin-left: 40px;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+.text {
+    width: 183;
+    margin-top: 0;
+    margin-bottom: 24px;
+    display: inline-block;
+}
+
+
+.p {
+    margin-top: 0;
+    margin-bottom: 48px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.logo {
+    margin-right: -4px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 262px;
+}
+
+.sides {
+    margin-top: 0;
+    margin-bottom: 40px;
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: -4px;
+}
